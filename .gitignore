@@ -1,0 +1,33 @@
+# Always keep these control files
+!.gitignore
+!.gitattributes
+
+# Ignore Unity-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Ignore IDE/project junk
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+
+# Ignore build artifacts
+*.apk
+*.aab
+*.unitypackage
+
+# OS junk
+.DS_Store
+Thumbs.dbs
